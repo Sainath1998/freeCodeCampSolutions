@@ -1,0 +1,2 @@
+# freeCodeCampSolutions
+Javascript Datastructure solutiuons
